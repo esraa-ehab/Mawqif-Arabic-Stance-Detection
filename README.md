@@ -10,5 +10,5 @@
   <img width="738" alt="stats" src="https://github.com/esraa-ehab/Mawqif-Arabic-Stance-Detection/assets/58075520/437ad752-f817-4306-b9e2-c4a888cf57ce">
 
 # Interactive Visualization
-- You can check an interactive version of this visualisation (here)[https://public.tableau.com/app/profile/nora6106/viz/MawqifDatasetDashboard/Dashboard1]
-- For more information, please visit the (shared task’s website)[https://sites.google.com/view/stanceeval/hom]
+- You can check an interactive version of this visualisation [https://public.tableau.com/app/profile/nora6106/viz/MawqifDatasetDashboard/Dashboard1](here)
+- For more information, please visit the shared task’s [https://sites.google.com/view/stanceeval/hom](website)
